@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xx+cYZZCOxPmbIWcjDq5fP5pkJ/b363AAuvJxMuRfZKgDd6h3Q4m3qOIr7oAOzksLRBCOitA4XY8QhF+ZTTrTg==",
+  "success": true,
+  "projectFilePath": "/home/gabby/RiderProjects/Atestat/Atestat/Atestat.csproj",
+  "expectedPackageFiles": [
+    "/home/gabby/.nuget/packages/atksharp/3.24.24.117-develop/atksharp.3.24.24.117-develop.nupkg.sha512",
+    "/home/gabby/.nuget/packages/cairosharp/3.24.24.117-develop/cairosharp.3.24.24.117-develop.nupkg.sha512",
+    "/home/gabby/.nuget/packages/gdksharp/3.24.24.117-develop/gdksharp.3.24.24.117-develop.nupkg.sha512",
+    "/home/gabby/.nuget/packages/giosharp/3.24.24.117-develop/giosharp.3.24.24.117-develop.nupkg.sha512",
+    "/home/gabby/.nuget/packages/glibsharp/3.24.24.117-develop/glibsharp.3.24.24.117-develop.nupkg.sha512",
+    "/home/gabby/.nuget/packages/gtksharp/3.24.24.117-develop/gtksharp.3.24.24.117-develop.nupkg.sha512",
+    "/home/gabby/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/gabby/.nuget/packages/pangosharp/3.24.24.117-develop/pangosharp.3.24.24.117-develop.nupkg.sha512"
+  ],
+  "logs": []
+}

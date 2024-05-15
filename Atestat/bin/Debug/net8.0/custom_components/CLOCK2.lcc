@@ -1,0 +1,1 @@
+{"Name":"CLOCK2","Components":[{"Name":"CLOCK","Inputs":[],"Outputs":[0]},{"Name":"CLOCK","Inputs":[],"Outputs":[1]},{"Name":"NOT","Inputs":[1],"Outputs":[2]},{"Name":"MOD","Inputs":[0],"Outputs":[3]},{"Name":"MOD","Inputs":[2],"Outputs":[4]},{"Name":"OR","Inputs":[3,4],"Outputs":[5]},{"Name":"LIGHT","Inputs":[5],"Outputs":[]}]}
